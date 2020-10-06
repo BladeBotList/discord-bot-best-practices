@@ -48,6 +48,10 @@ started. (Make sure that whatever the message is, it's easily found. A great way
 this is by including it in your bot's presence.) The alternative is brute-forcing punctuation
 characters to find it, which will be difficult for bots following 2 and 3. Plus, a mention
 is the most unique prefix of all.
+11. **Your bot must have a well-organized code.** If your bot is not open-source,
+still try to keep code organized so that you can make changes without getting too confused,
+and if open-source is even better, because people will see the great programmer you are!
+I recommend using the prettier and the eslint.
 
 If you have an idea for an addition or change to this document, please make a
 pull request and we can discuss it.
